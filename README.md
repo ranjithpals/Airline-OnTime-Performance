@@ -48,9 +48,10 @@ https://www.transtats.bts.gov/tables.asp?Table_ID=304&SYS_Table_Name=T_CARRIER_D
 The cancellation lookup table contains the cancellation code and its description.
 
 Data:
-Code	Description
-A	    Carrier
-B	    Weather
-C	    National Air System
-D	    Security
+| Code |	Description |
+| --- |	--- |
+| A	   | Carrier
+|B	   | Weather
+|C	   | National Air System
+|D	   | Security
 
