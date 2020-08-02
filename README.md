@@ -1,5 +1,7 @@
 # Airline-OnTime-Performance
 
+![On-Time Performance](On-Time-Performance.png)
+
 ## Overview:
 
 The Objective of the project is to generate reports that provides a summary of the on-time arrivals and delays of flights for multiple airlines
