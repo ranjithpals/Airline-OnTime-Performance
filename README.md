@@ -23,4 +23,5 @@ https://www.kaggle.com/usdot/flight-delays?select=flights.csv
 
 Here is the link for the data dictionary of the table attributes:
 https://www.transtats.bts.gov/DatabaseInfo.asp?DB_ID=120&DB_Short_Name=On-Time&DB_Name=Airline%20On-Time%20Performance%20Data&Link=0
-![Sample Flight Log Data](Flights Log data-small.png)
+
+![Sample Flight Log Data](Flights_Logdata_small.png)
